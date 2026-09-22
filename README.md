@@ -1,21 +1,67 @@
-# 💫 About Me:
-### 👋 Halo! Senang bertemu Anda!<br><br>Saya **Arman**, seorang Mahasiswa Teknik Informatika yang sangat antusias dengan Pengembangan aplikasi, Website, dan AI .<br><br>Saya percaya teknologi dapat digunakan untuk menciptakan solusi nyata yang membantu kehidupan manusia menjadi lebih efisien dan berkelanjutan.<br><br>- 🌱 Saya sedang fokus belajar **Bahasa: C++, Golang, JavaScript, HTML, dan CSS**.<br>- 🔭 Saat ini saya sedang mengerjakan proyek pribadi: **[Nama Proyek Anda, cth: Aplikasi Pencatat Keuangan]**.<br>- 👯 Saya terbuka untuk berkolaborasi dalam proyek **startup teknologi, inovasi edukasi digital, dan aplikasi berbasis AI.**.<br>- 💬 Tanya saya tentang **pengembangan web, logika pemrograman, atau cara membangun ide startup dari nol**!
+# Muhammad Mulnawarman
 
+**Informatics Student | Developer | Designer**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@mhmdmulna) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@mhmdmulna) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mhmdmulna14@gmail.com) 
+I am an Informatics student at Telkom University with an interest in **software development, web development, artificial intelligence, and digital design**.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MhmdMulna&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MhmdMulna&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MhmdMulna&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I enjoy turning ideas into practical digital products and continuously learning how technology can be used to solve real-world problems. Beyond coding, I also have an interest in **UI/UX, visual design, and education**.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Currently, I am focusing on strengthening my fundamentals in programming and exploring how development, design, and AI can work together to create meaningful products.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MhmdMulna&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+I'm an Informatics student at **Telkom University** who enjoys exploring the intersection of **technology, design, and problem solving**.
+
+I like building things from ideas — whether it's a web application, a small programming project, or a visual concept. For me, every project is an opportunity to understand something new and improve the way I approach problems.
+
+```javascript
+const arman = {
+  field: "Informatics",
+  building: ["Web Applications", "Digital Products"],
+  exploring: ["AI", "Software Development", "UI/UX"],
+  tools: ["C++", "Go", "JavaScript", "HTML", "CSS"],
+  mindset: "learn → build → improve"
+};
+```
+
+---
+
+## Projects
+
+I build projects as a way to learn, experiment, and turn ideas into practical solutions.
+
+* **[Project Name]** — Brief description of what the project does and the problem it solves.
+* **[Project Name]** — Brief description of the application or system.
+* **[Project Name]** — Brief description of the project and its main purpose.
+
+More projects can be found in my repositories.
+
+---
+
+## Tech Stack
+
+**Languages & Web**
+
+C++ · Go · JavaScript · HTML · CSS
+
+**Design**
+
+Figma · Adobe Photoshop · Adobe Illustrator
+
+**Currently Exploring**
+
+Artificial Intelligence · Web Development · Software Engineering
+
+---
+
+## Connect
+
+* **LinkedIn:** [linkedin.com/in/mhmdmulna](https://linkedin.com/in/mhmdmulna)
+* **Instagram:** [@mhmdmulna](https://instagram.com/mhmdmulna)
+* **Email:** [mhmdmulna14@gmail.com](mailto:mhmdmulna14@gmail.com)
+
+---
+
+> Building, learning, and improving — one project at a time.
