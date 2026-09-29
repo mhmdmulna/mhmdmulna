@@ -19,11 +19,14 @@
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mhmdmulna/mhmdmulna/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false" height="150" alt="GitHub statistics" />
-  <img src="https://streak-stats.demolab.com?user=mhmdmulna&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5" height="150" alt="GitHub streak" />
-  <img src="https://raw.githubusercontent.com/mhmdmulna/mhmdmulna/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=onedark&hide_border=false" height="150" alt="Most used languages" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mhmdmulna/mhmdmulna/stats-output/stats.svg" width="49%" alt="GitHub statistics" />
+  <img src="https://streak-stats.demolab.com?user=mhmdmulna&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5" width="49%" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mhmdmulna/mhmdmulna/languages-output/languages.svg" width="62%" alt="Most used languages" />
+</p>
 
 ###
 
