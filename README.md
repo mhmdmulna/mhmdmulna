@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I'm Arman — an AI enthusiast, UI/UX designer, and educator.</h2>
+<h2 align="center">Hi 👋! I'm Arman — an AI Enthusiast, UI/UX Designer, and Educator.</h2>
 
 ###
 
